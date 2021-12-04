@@ -1,75 +1,61 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Carlos Martinez's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Carlos Martinez Mascaryua
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="carlos.mascarua@gmail.com">carlos.mascarua@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/carlos.mascarua">LinkedIn</a>
+| <a href="https://github.com/mascarua/mascarua_resume/tree/master/docs">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`1992-1997`
+__McGill University__, Montreal, Quebec, Canada
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
 
 
 ## Related Experience
 
-### Internships
+### System Engineer
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
+`June 1997 - January 2004`
+__ESCA__, Software Engineer
+- Integrated, tested, customer-tested and delivered first Ultrix-based Energy Management Platform (EMP) to Georgia Power.
+- Integrated, tested, customer-tested and delivered first Windows-based SCADA platform for the EMP.
+- Lead Engineer integrating and delivering the EMP solution to the Korean Electrical Power Company (KEPCO), in Seoul, South Korea.
+- Supported the development of the first full-graphics display management system.
+- Developed the first distributed integrated platform for KEPCO, which was the foundation of what is now the CI/CD pipeline for the EMP.
+- Developed a display conversion tool, taking Auto-CAD drawings and converting them to the standard format.
+- Supported the diagnosis which led to the isolation of a bug in the TCP/IP protocol implementation in Windows. Elaborated the description and test set in such a way that it only took 3 days for Microsoft to deliver the solution.
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`February 2004 - January 2011`
+__Tectura Corporation__, Systems Engineering Consultant
+- Logical Interface Management team, 787 program, Boeing
+- Lean Certification project, BCA, Boeing
+- Simulator Support Group, BGS, Boeing 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`February 2011 - January 2018`
+__ALSTOM and General Electric__, EMP System Architect
+- Led the automation of performance testing on the new version of the platform. Reduced the detection and correction of performance issues in the platform by 95%.
+- Integrated, tested and delivered a new version of the platform for delivery and upgrades to customers.
+- Diagnosed and recommended implementation of deep issues in the platform related to the mismatches of the legacy Fortran code and the C++ code in the EMP.
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+`February 2004 - January 2011`
+__Collinear Group__, Solutions Architect
+- Led the first implementation of the modeling of interfaces for the new airplane program.
+- Supported development of new features using data analysis in the STARS application.
+- Solutions Architect for the Precedence Based Execution system (BDS and BCA).
+- Process and tool mapping across all programs in BCA and BDS.
 
 ## Service and Work History
 
