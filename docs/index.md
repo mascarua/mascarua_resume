@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### System Engineer
+### Software Engineer
 
 `June 1997 - January 2004`
 __ESCA__, Software Engineer
@@ -35,7 +35,8 @@ __ESCA__, Software Engineer
 - Developed the first distributed integrated platform for KEPCO, which was the foundation of what is now the CI/CD pipeline for the EMP.
 - Developed a display conversion tool, taking Auto-CAD drawings and converting them to the standard format.
 - Supported the diagnosis which led to the isolation of a bug in the TCP/IP protocol implementation in Windows. Elaborated the description and test set in such a way that it only took 3 days for Microsoft to deliver the solution.
-### Data Science Consulting Team
+
+### Systems Engineer
 
 `February 2004 - January 2011`
 __Tectura Corporation__, Systems Engineering Consultant
@@ -43,19 +44,22 @@ __Tectura Corporation__, Systems Engineering Consultant
 - Lean Certification project, BCA, Boeing
 - Simulator Support Group, BGS, Boeing 
 
+### System Architect
+
 `February 2011 - January 2018`
 __ALSTOM and General Electric__, EMP System Architect
 - Led the automation of performance testing on the new version of the platform. Reduced the detection and correction of performance issues in the platform by 95%.
 - Integrated, tested and delivered a new version of the platform for delivery and upgrades to customers.
 - Diagnosed and recommended implementation of deep issues in the platform related to the mismatches of the legacy Fortran code and the C++ code in the EMP.
 
+### Solutions Architect
+
 `February 2004 - January 2011`
 __Collinear Group__, Solutions Architect
 - Led the first implementation of the modeling of interfaces for the new airplane program.
 - Supported development of new features using data analysis in the STARS application.
 - Solutions Architect for the Precedence Based Execution system (BDS and BCA).
-- Process and tool mapping across all programs in BCA and BDS.
-
+- Process and tool mapping across all programs in BCA and BDS to verify coverage, identify gaps and homegrown tools and homogenize the Industrial Engineer's landscape.
 ## Service and Work History
 
 
