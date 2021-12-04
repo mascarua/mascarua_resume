@@ -4,7 +4,6 @@ title: Carlos Martinez's Resume
 ---
 # Carlos Martinez Mascaryua
 
-
 <div id="webaddress">
 <a href="carlos.mascarua@gmail.com">carlos.mascarua@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
@@ -58,13 +57,6 @@ __Collinear Group__, Solutions Architect
 - Process and tool mapping across all programs in BCA and BDS.
 
 ## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
