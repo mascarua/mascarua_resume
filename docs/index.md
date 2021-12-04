@@ -2,13 +2,13 @@
 layout: cv
 title: Carlos Martinez's Resume
 ---
-# Carlos Martinez Mascaryua
+# Carlos Martinez Mascarua
 
 <div id="webaddress">
 <a href="carlos.mascarua@gmail.com">carlos.mascarua@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/carlos.mascarua">LinkedIn</a>
-| <a href="https://github.com/mascarua/mascarua_resume/tree/master/docs">GitHub</a>
+| <a href="https://www.linkedin.com/in/carlosmascarua">LinkedIn</a>
+| <a href="https://mascarua.github.io/mascarua_resume/">Resume in GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
