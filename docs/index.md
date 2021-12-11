@@ -14,6 +14,8 @@ title: Carlos Martinez's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+`1992-1997`
+__University of Exeter__, Exeter, Devon, UK
 
 `1992-1997`
 __McGill University__, Montreal, Quebec, Canada
@@ -21,7 +23,12 @@ __McGill University__, Montreal, Quebec, Canada
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+## Awards
+`1997`
+Deans Honor List, _McGill University_, Canada.
 
+`1985`
+Medal for the highest GPA in my generation, _National Autonomous University of Mexico (UNAM)_, Mexico.
 ## Related Experience
 
 ### Software Engineer
@@ -40,9 +47,9 @@ __ESCA__, Software Engineer
 
 `February 2004 - January 2011`
 __Tectura Corporation__, Systems Engineering Consultant
-- Logical Interface Management team, 787 program, Boeing
-- Lean Certification project, BCA, Boeing
-- Simulator Support Group, BGS, Boeing 
+- Logical Interface Management team lead, 787 program, Boeing. Defined the schema and processes standards to store the Interface Control Data into the `SLATE` database by Dassault Systemes. Supported people from all disciplines to understand their needs and communicate them to the implementation team; established graphical requirement specifications using custom templates.
+- Lean Certification project, BCA, Boeing. Business Archiecture of the first processes and systems to unify the different certification processes across the enterprise. Using UML, mapped the large processes and detailed requirements, and identified automatization opportunities, established the realization and system reqruirements for each one.
+- Simulator Support Group, BGS, Boeing. Migrated the Simulator Tracking and Records System (STARS) system from a local Access database to a SQL server provided by the IT organization. Championed the use of enterprise resources for the development effort of the system. Note: STARS is still being used and improved after 9 years of its definition, and the relationship between the business and IT is solid, and has provided significant efficiencies into the development process.
 
 ### System Architect
 
@@ -60,7 +67,6 @@ __Collinear Group__, Solutions Architect
 - Supported development of new features using data analysis in the STARS application.
 - Solutions Architect for the Precedence Based Execution system (BDS and BCA).
 - Process and tool mapping across all programs in BCA and BDS to verify coverage, identify gaps and homegrown tools and homogenize the Industrial Engineer's landscape.
-## Service and Work History
 
 
 
